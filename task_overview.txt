@@ -1,0 +1,13 @@
+﻿		 TASK OVERVIEW FILE 
+
+The total number of tasks which have been generated and tracked by the task manager is 3.
+
+The total number of completed tasks is 0.
+
+The total number of incomplete tasks is 3.
+
+The total number of incomplete and overdue tasks are 2.
+
+The percentage of tasks that are incomplete is 100.0%.
+
+The percentage of tasks that are overdue is 66.7%.

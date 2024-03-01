@@ -1,0 +1,32 @@
+﻿		 USER OVERVIEW FILE 
+
+The total number of users handled by the task manager is 9.
+
+The total number of tasks which have been generated and tracked by the task manager is 3.
+
+USER TASK SUMMARY (Only shows users with Tasks assigned)
+================================================================================
+USERNAME: imran
+USER NUMBER: 2
+USER TASK COUNT: 2
+OVERALL USER TASK PERCENTAGE: 66.7
+USER COMPLETED TASK PERCENTAGE: 0.0
+USER OVERDUE TASKS PERCENTAGE: 50.0
+USER INCOMPLETE TASKS PERCENTAGE: 100.0
+================================================================================
+USERNAME: Arham
+USER NUMBER: 4
+USER TASK COUNT: 1
+OVERALL USER TASK PERCENTAGE: 33.3
+USER COMPLETED TASK PERCENTAGE: 0.0
+USER OVERDUE TASKS PERCENTAGE: 100.0
+USER INCOMPLETE TASKS PERCENTAGE: 100.0
+
+USERS WITH NO TASKS ASSIGNED
+admin
+Wahib
+falak
+Everton
+imran2
+james
+Falak

@@ -214,7 +214,11 @@ def menu_options():
      "\t va - View all tasks\n"
      "\t vm - View my task\n"
      "\t gr - Generate reports\n"
+<<<<<<< HEAD
      "\t ds - Display statistics (only ADMIN can use this option)\n"
+=======
+     "\t ds - Display statistics (Only Admin can use this option)\n"
+>>>>>>> eae03686501dc203c614ac73eb87206b73cb09d1
      "\t e  - Exit\n" ": ").lower()
     while True:
          # If invalid option input then ask user to input again

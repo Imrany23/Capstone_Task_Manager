@@ -28,7 +28,7 @@ Description :   Program to handle and maintain users and tasks
                 Only able to be used by the Admin and gives options of to output all details
                 to the terminal in the files tasks.txt and user.txt                
                 e  - Exit
-                Exits the application after confirmation
+                Exits the application after confirmation from the users
 '''
 
 # Importing libraries
@@ -214,11 +214,7 @@ def menu_options():
      "\t va - View all tasks\n"
      "\t vm - View my task\n"
      "\t gr - Generate reports\n"
-<<<<<<< HEAD
-     "\t ds - Display statistics (only ADMIN can use this option)\n"
-=======
      "\t ds - Display statistics (Only Admin can use this option)\n"
->>>>>>> eae03686501dc203c614ac73eb87206b73cb09d1
      "\t e  - Exit\n" ": ").lower()
     while True:
          # If invalid option input then ask user to input again
